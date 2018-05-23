@@ -4,7 +4,7 @@ This repo contains all the homework solutions in CS1331 Spring 2018. Documentati
 # topic list
 http://cs1331.gatech.edu/spring2018.html
 
-hw1- Create a wordguess game with simple rules and conditions, applying basic knowledge of command line and terminal prompt.
+hw1- Create a wordguess game with simple rules and conditions, applying basic knowledge of command line and terminal prompt. \n
 hw2- Create a battleship game with virtual boards and rules, applying concept of array.
 hw3- Create objects that simulate real world operations. Concepts applied: class implementation, constructors, instance method.
 hw4- Create different DnD characters using abstract classes. Concepts applied: polymorphism, abstract class, sub & super class.
